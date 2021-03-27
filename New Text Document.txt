@@ -1,0 +1,21 @@
+1.Model:
+	User
+	Users
+	Tweet {Like}
+	Tweets
+	Comment {Like}
+	Comments
+	Chat
+	Chats
+	Notif
+	Time
+
+2.Logic:
+	Welcome -> Sign in/SignUp -> Main menu -> {
+						Setting -> {Privacy, Actions}
+						Chat -> {Saved Msg,Each chat}
+						Explore -> {Search} , {Tweet -> {Comments}}
+						Timeline -> Tweet -> {Comments}
+						Own Profile -> Info, Notif -> {System Msg,Request,Lists}
+							}
+

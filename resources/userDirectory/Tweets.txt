@@ -1,0 +1,6 @@
+{"text":"How\u0027s today","ID":"48787","parent":"0","owner":"morty","users":["jojo","jojo"],"date":"1616602437718","likes":[],"isRet":false}
+{"text":"How\u0027s today","ID":"2","parent":"0","owner":"morty","users":["jojo","jojo"],"date":"1616602706158","likes":[],"isRet":true}
+{"text":"Heeeey world","ID":"21731","parent":"0","owner":"morty","users":["jojo","jojo"],"date":"1616659033454","likes":[],"isRet":false}
+{"text":"Khob ke chi?","ID":"71946","parent":"21731","owner":"morty","users":["jojo","jojo"],"date":"1616827205471","likes":[],"isRet":false}
+{"text":"Khosh behalet","ID":"65910","parent":"21731","owner":"morty","users":["jojo","jojo"],"date":"1616827218101","likes":[],"isRet":false}
+{"text":"Hichi dawsh rahat bash","ID":"39368","parent":"71946","owner":"morty","users":["jojo","jojo"],"date":"1616827228491","likes":[],"isRet":false}

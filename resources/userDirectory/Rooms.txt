@@ -1,0 +1,3 @@
+{"roomID":"15","date":"1616515405959","owner1":"jojo","owner2":"jojo","unread1":0,"unread2":1}
+{"roomID":"16","date":"1616602424032","owner1":"morty","owner2":"morty","unread1":0,"unread2":0}
+{"roomID":"60807","date":"1616602785333","owner1":"morty","owner2":"jojo","unread1":2,"unread2":0}
